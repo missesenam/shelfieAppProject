@@ -1,8 +1,8 @@
 {
   "expo": {
-    "scheme": "shelfieapp",
-    "name": "delreactnative",
-    "slug": "delreactnative",
+    "scheme": "your-app-scheme",
+    "name": "shelfieAppProject",
+    "slug": "shelfieAppProject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
