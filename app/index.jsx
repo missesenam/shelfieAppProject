@@ -4,7 +4,7 @@ import React from "react";
 const index = () => {
   return (
     <View>
-      <Text>hellom am back again</Text>
+      <Text>hello am back for git again</Text>
     </View>
   );
 };
